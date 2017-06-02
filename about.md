@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Graduated from Kazakh-Turkish High School in 2017.
+Future freshman at [UNIST](http://unist.ac.kr).
+
+Passionate about programming and curious about many things.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Competitive programmer — [Codeforces](http://codeforces.com/nurseiit),
+
+Lifelong Learner — [KhanAcademy](https://www.khanacademy.org/profile/nurseiit/),
+
+ Anime lover — MyAnimeList page
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nurseiit@protonmail.com](mailto:nurseiit@protonmail.com)
