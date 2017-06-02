@@ -7,6 +7,8 @@ permalink: /about/
 Graduated from Kazakh-Turkish High School in 2017.
 Future freshman at [UNIST](http://unist.ac.kr).
 
+Currently intern at [AvSoftware Shymkent](http://avsoft.kz).
+
 Passionate about programming and curious about many things.
 
 ### More Information
