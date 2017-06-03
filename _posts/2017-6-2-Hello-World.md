@@ -5,4 +5,6 @@ title: Moving on!
 
 Hello, this is my new blog page, built with Jekyll and proudly hosted at [Github pages](https://github.io).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Soon I will copy here all my previous posts with comments included!
+
+Stay tuned.
