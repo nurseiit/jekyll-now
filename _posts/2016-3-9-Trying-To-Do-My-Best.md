@@ -1,5 +1,4 @@
 <h3><i>Hi there!</i></h3>
-
 It’s been a long time since I last wrote here (2 months). 
 But one can ask where did my first post go: it disappeared… Just kidding: I deleted it for some reasons. 
 To be exact: some time ago my Internet provider or the whole country decided to block <i>WordPress.com</i>, 
