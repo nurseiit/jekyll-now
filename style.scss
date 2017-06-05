@@ -18,7 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+  background-color: #315481;
+  background-image: linear-gradient(to bottom, #315481, #918e82 100%);
+  background-attachment: fixed;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -28,6 +30,7 @@ body {
   max-width: 840px;
   padding: 0 10px;
   width: 100%;
+  background: white;
 }
 
 h1, h2, h3, h4, h5, h6 {
