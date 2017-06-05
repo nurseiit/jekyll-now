@@ -24,4 +24,4 @@ Anime lover — [MyAnimeList page](https://myanimelist.net/profile/Nurseyit).
 [nurseiit@protonmail.com](mailto:nurseiit@protonmail.com)
 
 Me on vkontakte - [vk.com/nurseyit](http://vk.com/nurseyit)
-
+<br>
