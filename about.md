@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 Graduated from Kazakh-Turkish High School in 2017.
-Future freshman at [UNIST](http://unist.ac.kr).
+Freshman at [UNIST](http://unist.ac.kr).
 
-Currently intern at [AV Software Shymkent](http://avsoft.kz).
+Previously an intern at [AV Software Shymkent](http://avsoft.kz).
 
 Passionate about programming and curious about many things.
 
@@ -25,5 +25,5 @@ Anime lover — [MyAnimeList page](https://myanimelist.net/profile/Nurseyit).
 
 [nurseiit@protonmail.com](mailto:nurseiit@protonmail.com)
 
-Me on vkontakte - [vk.com/a.nurseiit](http://vk.com/a.nurseiit)
+Me on VKontakte - [vk.com/a.nurseiit](http://vk.com/a.nurseiit)
 <br><br>
