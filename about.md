@@ -14,7 +14,7 @@ Passionate about programming and curious about many things.
 ### More Information
 ---
 
-Competitive programmer — [Codeforces](http://codeforces.com/nurseiit),
+Competitive programmer — [Codeforces](http://codeforces.com/profile/nurseiit),
 
 Lifelong Learner — [KhanAcademy](https://www.khanacademy.org/profile/nurseiit/),
 
