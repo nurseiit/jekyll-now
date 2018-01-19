@@ -1,11 +1,11 @@
-As the lazy days of post-semester break come to an end, the painful reality of predawn
+    As the lazy days of post-semester break come to an end, the painful reality of predawn
 alarms and endless assignments strike UNIST students. Let us take a look inside a lecture room on one of those days. 
 You will most likely encounter a professor vigorously speaking to students sitting at their desks. If
 you take a closer look, you will see that students are either nodding off or completely asleep. It is quite natural of you to think that
 students are not getting enough sleep, especially when they are doing more than ever with their time. However, sleep is not just a
 quantity, but it is rather about the quality. Have you ever heard one claiming that adults
 need 8 hours while children need 10 in order to get enough sleep? You better forget that, as the science already accepted it as a myth.
-Those who sleep two times less are neither zombies nor supermen - they simply enjoy
+  Those who sleep two times less are neither zombies nor supermen - they simply enjoy
 a much more organized sleep routine. To
 understand this better, let us break the sleep
 into phases:
