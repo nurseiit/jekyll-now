@@ -1,16 +1,18 @@
-    As the lazy days of post-semester break come to an end, the painful reality of predawn
+![unist](/images/unist.jpg "UNIST")
+&nbsp;&nbsp;&nbsp;&nbsp; As the lazy days of post-semester break come to an end, the painful reality of predawn
 alarms and endless assignments strike UNIST students. Let us take a look inside a lecture room on one of those days. 
 You will most likely encounter a professor vigorously speaking to students sitting at their desks. If
 you take a closer look, you will see that students are either nodding off or completely asleep. It is quite natural of you to think that
 students are not getting enough sleep, especially when they are doing more than ever with their time. However, sleep is not just a
 quantity, but it is rather about the quality. Have you ever heard one claiming that adults
 need 8 hours while children need 10 in order to get enough sleep? You better forget that, as the science already accepted it as a myth.
-  Those who sleep two times less are neither zombies nor supermen - they simply enjoy
+
+&nbsp;&nbsp;&nbsp;&nbsp; Those who sleep two times less are neither zombies nor supermen - they simply enjoy
 a much more organized sleep routine. To
 understand this better, let us break the sleep
 into phases:
 
-First phase is light sleep phase. It is like when
+&nbsp;&nbsp;&nbsp;&nbsp; First phase is light sleep phase. It is like when
 you snooze in a lecture and find out that 5
 minutes have passed already when you wake
 up. Next is deep sleep, usually described as
@@ -29,7 +31,7 @@ complete sleep cycle lasts for about 90 minutes
 and usually repeated several times every
 night.
 
-Before we start discussing organizing the
+&nbsp;&nbsp;&nbsp;&nbsp; Before we start discussing organizing the
 routine, there is one more thing you should
 definitely consider – your body temperature.
 During the day, our body temperature
@@ -38,7 +40,7 @@ but rather it varies plus or minus two degrees.
 Just like you keep your body temperature high when you are active, accordingly you
 should keep it low while asleep.
 
-Now that you are aware of how sleep works,
+&nbsp;&nbsp;&nbsp;&nbsp; Now that you are aware of how sleep works,
 let us consider some general rules for an ideal
 everyday sleep routine. Waking up exactly at
 the REM phase is crucial. You can find this
@@ -64,7 +66,7 @@ entering the delta phase. And stay cool!
 You might get a good night’s rest if you sleep
 in a cool room.
 
-Indeed, everything mentioned above matters
+&nbsp;&nbsp;&nbsp;&nbsp; Indeed, everything mentioned above matters
 a lot, but maybe the most principal factor
 in having a good sleep is to limit the use of
 smartphones and social media at least one
