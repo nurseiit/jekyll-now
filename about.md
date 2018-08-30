@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
@@ -23,7 +23,7 @@ Anime lover — [MyAnimeList page](https://myanimelist.net/profile/Nurseyit).
 ### Contact me
 ---
 
-[nurseiit@protonmail.com](mailto:nurseiit@protonmail.com)
+[nurseiit@pm.me](mailto:nurseiit@pm.me)
 
 Me on VKontakte - [vk.com/a.nurseiit](http://vk.com/a.nurseiit)
 <br><br>
