@@ -8,7 +8,8 @@ Graduated from Kazakh-Turkish High School in 2017.
 Sophomore (2nd year) student at [UNIST](http://unist.ac.kr).
 
 Previously a CTO and Co-Founder of [RESTA](https://www.resta.io).
-Before that, an full-stack developer intern at [AV Software Shymkent](http://avsoft.kz).
+<br>
+Before that, a full-stack developer intern at [AV Software Shymkent](http://avsoft.kz).
 
 Passionate about programming and curious about many things.
 
