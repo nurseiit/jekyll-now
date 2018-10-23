@@ -22,7 +22,7 @@ Lifelong Learner — [KhanAcademy](https://www.khanacademy.org/profile/nurseiit/
 
 Anime lover — [MyAnimeList page](https://myanimelist.net/profile/Nurseyit).
 
-<h3><a href="/calendar.html">My Calendar (click)</a></h3>
+<h3><a href="/calendar">My Calendar (click)</a></h3>
 ---
 
 ### Contact me
