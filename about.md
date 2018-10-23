@@ -70,7 +70,7 @@ My LinkedIn [Profile](https://www.linkedin.com/in/nurseiit/)
 <script type="text/javascript">
   $(document).ready(function() {
     $('#calendar').fullCalendar({
-      googleCalendarApiKey: '1002222653987-jrc6qdck89au2hdqgbrloj36sq2d72lu.apps.googleusercontent.com',
+      googleCalendarApiKey: 'AIzaSyCDIMNN0KpVZgkk1bSSA0GOzTNe5bMvuXA',
       events: {
         googleCalendarId: 'nurseyit.abdimomyn@gmail.com',
         className: 'gcal-event' // an option!
