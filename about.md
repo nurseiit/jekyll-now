@@ -22,10 +22,9 @@ Lifelong Learner — [KhanAcademy](https://www.khanacademy.org/profile/nurseiit/
 
 Anime lover — [MyAnimeList page](https://myanimelist.net/profile/Nurseyit).
 
-### My Calendar
+<h3><a href="/calendar.html">My Calendar (click)</a></h3>
 ---
-<div id="calendar">
-</div>
+
 ### Contact me
 ---
 
@@ -35,47 +34,3 @@ Me on VKontakte - [vk.com/a.nurseiit](http://vk.com/a.nurseiit)
 
 My LinkedIn [Profile](https://www.linkedin.com/in/nurseiit/)
 <br><br>
-
-<link 
-  rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.min.css"
-/>
-<link 
-  rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.print.css"
-/>
-<script
-  type="text/javascript"
-  src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js">
-</script>
-<script
-  src="https://code.jquery.com/jquery-3.3.1.min.js"
-  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-  crossorigin="anonymous">
-</script>
-<script
-  src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
-  integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
-  crossorigin="anonymous">
-</script>		
-<script
-  type="text/javascript"
-  src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.js">
-</script>
-<script
-  type="text/javascript"
-  src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/gcal.js">
-</script>
-
-<script type="text/javascript">
-  $(document).ready(function() {
-    $('#calendar').fullCalendar({
-      googleCalendarApiKey: 'AIzaSyCDIMNN0KpVZgkk1bSSA0GOzTNe5bMvuXA',
-      events: {
-        googleCalendarId: 'nurseyit.abdimomyn@gmail.com',
-        className: 'gcal-event' // an option!
-      }
-    });
-  });
-</script>
-

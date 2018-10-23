@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Calendar</title>
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="calendar.css" />
+    <link 
+      rel="stylesheet"
+      href="https://fullcalendar.io/releases/fullcalendar/3.9.0/fullcalendar.min.css"
+    />
+        
+  </head>
+
+  <body>
+    <div id="calendar"></div>
+  </body>
+
+  <script
+    type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js">
+  </script>
+  <script
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous">
+  </script>
+  <script
+    type="text/javascript"
+    src="https://fullcalendar.io/releases/fullcalendar/3.9.0/fullcalendar.min.js">
+  </script>
+  <script
+    type="text/javascript"
+    src="https://fullcalendar.io/releases/fullcalendar/3.9.0/gcal.min.js">
+  </script>
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('#calendar').fullCalendar({
+        eventBackgroundColor: 'green',
+        eventTextColor: 'black',
+        eventBorderColor: 'blue',
+        defaultView: 'listDay',
+        nowIndicator: true,
+        header: {
+          left: 'prev,next today',
+          center: 'title',
+          right: 'listDay, agendaWeek,month'
+        },
+        googleCalendarApiKey: 'AIzaSyCDIMNN0KpVZgkk1bSSA0GOzTNe5bMvuXA',
+        events: {
+          googleCalendarId: 'nurseyit.abdimomyn@gmail.com',
+        },
+        eventRender: function(event, element) {
+          try {
+            let title = element[0].innerText.split('m')[2];
+            if (title)
+              return;      
+            title = "Private Event";
+            console.log(element[0].childNodes[2]);
+            element[0].childNodes[2].innerText += title;
+          } catch (e) {
+            //do nothing
+            //works only for day view, and would throw (e) otherwise
+          };
+        },
+        eventClick: function(event) {
+        // opens events in a popup window
+          window.open(event.url, '_blank', 'width=700,height=600');
+          return false;
+        }
+      });
+    });
+  </script>
+</html>
