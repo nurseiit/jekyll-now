@@ -21,7 +21,7 @@ body {
   background-color: white/*#315481*/;
 /*  background-image: linear-gradient(to bottom, #348F50, #56B4D3 100%); */
 
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $titillium;
   color: $darkGray;
 }
 
@@ -35,7 +35,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $titillium;
   color: $darkerGray;
   font-weight: bold;
 
@@ -198,7 +198,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $titillium;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -217,7 +217,7 @@ img {
 nav {
   float: right;
   margin-top: 13px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $titillium;
   font-size: 18px;
 
   @include mobile {
