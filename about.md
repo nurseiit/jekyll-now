@@ -5,11 +5,12 @@ permalink: /about/
 ---
 
 Graduated from Kazakh-Turkish High School in 2017.
+<br>
 Sophomore (2nd year) student at [UNIST](http://unist.ac.kr).
 
-Previously a CTO and Co-Founder of [RESTA](http://resta.io).
+Previously Co-Founder and CTO of [RESTA](http://resta.io).
 <br>
-Before that, a full-stack developer intern at [AV Software Shymkent](http://avsoft.kz).
+Before that, a full-stack developer intern at [AV Software](http://avsoft.kz).
 
 Passionate about programming and curious about many things.
 
@@ -28,9 +29,9 @@ Anime lover — [MyAnimeList page](https://myanimelist.net/profile/Nurseyit).
 ### Contact me
 ---
 
-[nurseiit@pm.me](mailto:nurseiit@pm.me)
+Shoot me an email at [nurseiit@pm.me](mailto:nurseiit@pm.me)
 
-Me on VKontakte - [vk.com/a.nurseiit](http://vk.com/a.nurseiit)
+Find me on VK - [vk.com/a.nurseiit](http://vk.com/a.nurseiit)
 
-My LinkedIn [Profile](https://www.linkedin.com/in/nurseiit/)
+Look at my LinkedIn [Profile](https://www.linkedin.com/in/nurseiit/)
 <br><br>
