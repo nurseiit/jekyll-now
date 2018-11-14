@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Why me? *(for UISO 2019)*
+title: Why me? (for UISO 2019)
 ---
 
 ![UISO](/images/UISO.JPG "UISO")
-
 &nbsp;&nbsp;&nbsp;&nbsp; *“Given a lever long enough and a pivot on which to place it, one could shift the world”*
 is a famous saying by an antique mathematician Archimedes. The primary definition of a 
 lever is that for the effort needed to be exerted to decrease, the length of the lever 
