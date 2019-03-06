@@ -8,7 +8,9 @@ Graduated from Kazakh-Turkish High School in 2017.
 <br>
 Sophomore (2nd year) student at [UNIST](http://unist.ac.kr).
 
-Previously Co-Founder and CTO of [RESTA](http://resta.io).
+Software Engineer at [Hanbitco](https://hanbitco.com).
+<br>
+Previously Co-Founder and SWE of [RESTA](http://resta.io).
 <br>
 Before that, a full-stack developer intern at [AV Software](http://avsoft.kz).
 
