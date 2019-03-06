@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why me? (for UISO 2019)
+title: [UNIST] UISO 2019
 ---
 
 ![UISO](/images/UISO-min.JPG "UISO")
