@@ -1,3 +1,8 @@
+---
+layout: post
+title: Trying to do my best
+---
+
 <h3><i>Hi there!</i></h3>
 It’s been a long time since I last wrote here (2 months). 
 But one can ask where did my first post go: it disappeared… Just kidding: I deleted it for some reasons. 

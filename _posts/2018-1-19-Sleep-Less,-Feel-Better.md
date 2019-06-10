@@ -1,3 +1,9 @@
+---
+layout: post
+title: Sleep Less, Feel Better
+---
+
+
 ![unist](/images/unist.jpg "UNIST")
 &nbsp;&nbsp;&nbsp;&nbsp; As the lazy days of post-semester break come to an end, the painful reality of predawn
 alarms and endless assignments strike UNIST students. Let us take a look inside a lecture room on one of those days. 
