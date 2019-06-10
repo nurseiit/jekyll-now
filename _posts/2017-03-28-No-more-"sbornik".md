@@ -1,6 +1,8 @@
 ---
 layout: post
 title: No more "sbornik"
+image_sliders:
+  - slider_sbornik
 ---
 
 
@@ -17,7 +19,7 @@ From March 13th till March 21st the National Olympiad of mathematical cycle took
 The organizers called that event as “Start of Stars 2017” which was a little bit confusing.
 The event itself was great. Compared to last year Olympiad held in Kokshetau, Pavlodar was several levels higher.
 
-**Place for photos**
+{% include slider.html selector="slider_sbornik" %}
 
 I’ll miss that moments — in fact, I already do so.
 
