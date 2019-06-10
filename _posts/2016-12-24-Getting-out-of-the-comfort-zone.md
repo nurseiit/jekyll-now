@@ -1,3 +1,8 @@
+---
+layout: post
+title: Getting out of the comfort zone
+---
+
 
 Ten minutes remaining in the contest, 
 but you’re still a few points short of advancing. Armed with your mighty coding powers,

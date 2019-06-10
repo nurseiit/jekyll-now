@@ -1,3 +1,9 @@
+---
+layout: post
+title: No more "sbornik"
+---
+
+
 First of all, accept my apologies for a week without a single post.
 Surely I could take an action on that, but I was too lazy.
 So now, I’m writing this post at an almost deadline date — I should certainly do something with it. 😐
