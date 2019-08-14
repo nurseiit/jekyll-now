@@ -4,9 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Graduated from Kazakh-Turkish High School in 2017.
-<br>
-Sophomore (2nd year) student at [UNIST](http://unist.ac.kr).
+Junior year student at [UNIST](http://unist.ac.kr).
 
 Software Engineer at [Hanbitco](https://hanbitco.com).
 <br>
@@ -14,9 +12,13 @@ Previously Co-Founder and SWE of [RESTA](http://resta.io).
 <br>
 Before that, a full-stack developer intern at [AV Software](http://avsoft.kz).
 
-Passionate about programming and curious about many things.
+<br>
+Graduated from Kazakh-Turkish High School in 2017.
+<br>
 
-### More Information
+_Passionate about programming, curious about countless things._
+
+### More Info
 ---
 
 Competitive programmer — [Codeforces](http://codeforces.com/profile/nurseiit),
@@ -31,9 +33,9 @@ Anime lover — [MyAnimeList page](https://myanimelist.net/profile/Nurseyit).
 ### Contact me
 ---
 
-Shoot me an email at [nurseiit@pm.me](mailto:nurseiit@pm.me)
+Shoot me an email at [nurs@unist.ac.kr](mailto:nurs@unist.ac.kr) – please, be sure that mail content hasn't got any keywords related to conferences – my filters treat such mails as garbage :)
 
-Find me on VK - [vk.com/a.nurseiit](http://vk.com/a.nurseiit)
+Find me on Twitter - [twitter.com/anurseiit](http://twitter.com/anurseiit)
 
 Look at my LinkedIn [Profile](https://www.linkedin.com/in/nurseiit/)
 <br><br>
